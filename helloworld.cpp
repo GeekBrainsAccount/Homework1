@@ -6,7 +6,7 @@
 int main()
 {
     //first new comment
-    std::cout << "Hello World!\n";
+    std::cout << "New message\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
