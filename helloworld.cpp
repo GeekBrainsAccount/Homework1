@@ -5,6 +5,7 @@
 
 int main()
 {
+    //first new comment
     //second new comment
     std::cout << "New message\n";
 }
